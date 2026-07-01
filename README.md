@@ -10,7 +10,7 @@ Building practical AI, Machine Learning and Data Analytics solutions with Python
 
 <p align="center">
 <a href="https://github.com/altamashchougle">
-<img src="https://komarev.com/ghpvc/?username=altamashchougle&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=altamashchougle&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </a>
 </p>
 
@@ -18,11 +18,11 @@ Building practical AI, Machine Learning and Data Analytics solutions with Python
 
 ## 👨‍💻 About Me
 
-- 🎓 Bachelor of Engineering in Computer Engineering
+- 🎓 B.E. Computer Engineering Graduate
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, NLP & Data Analytics
 - 🚀 Building end-to-end AI applications using Python, Flask, FastAPI & Streamlit
-- 🌍 Starting my MSc in AI / Data Science in Germany
-- 💼 Currently seeking Remote AI / ML / Data Analytics Internship opportunities
+- 🇩🇪 Admitted for an MSc in AI / Data Science in Germany (Fall 2026)
+- 💼 Open to Remote AI / ML / Data Analytics Internship opportunities
 
 ---
 
@@ -34,17 +34,27 @@ Building practical AI, Machine Learning and Data Analytics solutions with Python
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 </p>
 
-### AI / ML
+### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-**Machine Learning • NLP • BERT • Pandas • NumPy • Recommendation Systems**
+Machine Learning • NLP • BERT • Recommendation Systems
+
+---
 
 ### Data Analytics
 
-**SQL • Power BI • Excel • Data Visualization • Exploratory Data Analysis**
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+---
 
 ### Backend
 
@@ -52,11 +62,15 @@ Building practical AI, Machine Learning and Data Analytics solutions with Python
 <img src="https://skillicons.dev/icons?i=flask,fastapi"/>
 </p>
 
+---
+
 ### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
 </p>
+
+---
 
 ### Tools
 
@@ -70,27 +84,23 @@ Building practical AI, Machine Learning and Data Analytics solutions with Python
 
 🧠 **Toxic Comment Detector**
 
-> BERT + Flask + Gemini API for real-time toxic comment detection and polite text rewriting.
+> Real-time toxic comment detection and AI-powered polite text rewriting using **BERT, Flask & Gemini API**.
 
 🎵 **Spotify Genre Recommendation System**
 
-> Music recommendation engine using K-Means clustering, PCA and Streamlit.
+> Music recommendation engine built using **K-Means, PCA & Streamlit**.
 
 ❤️ **Cardiovascular Disease Prediction**
 
-> Machine Learning application using SVM, Random Forest and Decision Trees.
+> Machine learning application using **SVM, Random Forest & Decision Trees**.
 
 📊 **Sales Analytics Dashboard**
 
-> Interactive business analytics dashboard built using Python, Pandas, Streamlit and Power BI.
-
-🎬 **Netflix Analytics Dashboard**
-
-> Interactive dashboard for exploring Netflix Movies & TV Shows with dynamic visualizations.
+> Interactive dashboard built using **Python, Pandas, Streamlit & Power BI**.
 
 🚀 **AI Upskill Recommender**
 
-> FastAPI + React + Gemini powered platform for personalized learning recommendations.
+> Personalized learning platform built with **FastAPI, React & Gemini API**.
 
 ---
 
@@ -98,26 +108,38 @@ Building practical AI, Machine Learning and Data Analytics solutions with Python
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=altamashchougle&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=altamashchougle&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamashchougle&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamashchougle&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=altamashchougle&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=altamashchougle&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-💼 LinkedIn
+<p align="left">
 
-https://linkedin.com/in/altamashchougle
+<a href="https://linkedin.com/in/altamashchougle">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📧 Email
+<a href="mailto:altamashchougle55@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-altamashchougle55@gmail.com
+<a href="https://github.com/altamashchougle">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ Feel free to explore my repositories and connect with me for collaboration, internship opportunities, or AI/Data Analytics projects!
