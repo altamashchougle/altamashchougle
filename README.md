@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Altamash Chougle</h1>
 
 <h3 align="center">
-AI/ML Engineer • Data Analyst • Python Developer
+AI/ML Engineer • Data Analyst • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
@@ -21,61 +21,65 @@ Building practical AI, Machine Learning and Data Analytics solutions with Python
 - 🎓 B.E. Computer Engineering Graduate
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, NLP & Data Analytics
 - 🚀 Building end-to-end AI applications using Python, Flask, FastAPI & Streamlit
-- 🇩🇪 Admitted for an MSc in AI / Data Science in Germany (Fall 2026)
+- 🇩🇪 Admitted for an MSc in AI / Data Science in Germany (Winter 2026)
 - 💼 Open to Remote AI / ML / Data Analytics Internship opportunities
+- 💡 Interested in AI, NLP, Data Analytics, Recommendation Systems & Generative AI.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-Machine Learning • NLP • BERT • Recommendation Systems
-
----
-
-### Data Analytics
-
-<p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 </p>
 
 ---
 
-### Backend
+### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- BERT
+- Scikit-learn
+- Pandas
+- NumPy
+- Recommendation Systems
+
+---
+
+### 📊 Data Analytics
+
+- SQL
+- Power BI
+- Microsoft Excel
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+---
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi"/>
 </p>
 
 ---
 
-### Frontend
+### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
 </p>
 
 ---
 
-### Tools
+### 🛠️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
@@ -84,7 +88,7 @@ Machine Learning • NLP • BERT • Recommendation Systems
 
 🧠 **Toxic Comment Detector**
 
-> Real-time toxic comment detection and AI-powered polite text rewriting using **BERT, Flask & Gemini API**.
+> AI-powered toxic comment detection and text rewriting using **BERT, Flask & Gemini API**.
 
 🎵 **Spotify Genre Recommendation System**
 
@@ -92,7 +96,7 @@ Machine Learning • NLP • BERT • Recommendation Systems
 
 ❤️ **Cardiovascular Disease Prediction**
 
-> Machine learning application using **SVM, Random Forest & Decision Trees**.
+> Disease prediction using **SVM, Random Forest & Decision Trees**.
 
 📊 **Sales Analytics Dashboard**
 
