@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Altamash Chougle</h1>
-<h3 align="center">AI/ML Engineer • Data Analyst • Python Developer</h3>
+
+<h3 align="center">
+AI/ML Engineer • Data Analyst • Python Developer
+</h3>
 
 <p align="center">
 Building practical AI, Machine Learning and Data Analytics solutions with Python.
@@ -13,69 +16,49 @@ Building practical AI, Machine Learning and Data Analytics solutions with Python
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Bachelor of Engineering in Computer Engineering
-
-🤖 Passionate about Artificial Intelligence, Machine Learning, NLP and Data Analytics.
-
-💡 I enjoy building end-to-end AI applications—from data preprocessing and model training to deployment using Flask, FastAPI and Streamlit.
-
-🌍 Preparing to pursue an MSc in AI / Data Science in Germany.
-
-💼 Currently seeking Remote AI / ML / Data Analytics Internship opportunities.
+- 🎓 Bachelor of Engineering in Computer Engineering
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, NLP & Data Analytics
+- 🚀 Building end-to-end AI applications using Python, Flask, FastAPI & Streamlit
+- 🌍 Starting my MSc in AI / Data Science in Germany
+- 💼 Currently seeking Remote AI / ML / Data Analytics Internship opportunities
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 </p>
 
-## AI / Machine Learning
+### AI / ML
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- BERT
-- Scikit-learn
-- Pandas
-- NumPy
-- FP-Growth
-- Recommendation Systems
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+</p>
 
----
+**Machine Learning • NLP • BERT • Pandas • NumPy • Recommendation Systems**
 
-## Data Analytics
+### Data Analytics
 
-- SQL
-- Power BI
-- Microsoft Excel
-- Data Visualization
-- Exploratory Data Analysis
+**SQL • Power BI • Excel • Data Visualization • Exploratory Data Analysis**
 
----
-
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,fastapi"/>
 </p>
 
----
-
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
 </p>
 
----
-
-## Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
@@ -83,123 +66,35 @@ Building practical AI, Machine Learning and Data Analytics solutions with Python
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🧠 Toxic Comment Detector
+🧠 **Toxic Comment Detector**
 
-• BERT + Flask + Gemini API
+> BERT + Flask + Gemini API for real-time toxic comment detection and polite text rewriting.
 
-• Detects toxic comments and rewrites them into polite language.
+🎵 **Spotify Genre Recommendation System**
 
-**Tech Stack**
+> Music recommendation engine using K-Means clustering, PCA and Streamlit.
 
-Python • BERT • Flask • Gemini API • HTML • CSS
+❤️ **Cardiovascular Disease Prediction**
 
----
+> Machine Learning application using SVM, Random Forest and Decision Trees.
 
-## 🎵 Spotify Genre Recommendation System
+📊 **Sales Analytics Dashboard**
 
-Recommendation engine using
+> Interactive business analytics dashboard built using Python, Pandas, Streamlit and Power BI.
 
-- K-Means Clustering
-- PCA
-- Streamlit
+🎬 **Netflix Analytics Dashboard**
 
----
+> Interactive dashboard for exploring Netflix Movies & TV Shows with dynamic visualizations.
 
-## ❤️ Cardiovascular Disease Prediction
+🚀 **AI Upskill Recommender**
 
-Machine Learning model for predicting cardiovascular disease risk.
-
-**Algorithms**
-
-- SVM
-- Random Forest
-- Decision Tree
+> FastAPI + React + Gemini powered platform for personalized learning recommendations.
 
 ---
 
-## 📊 Sales Analytics Dashboard
-
-Business analytics project using
-
-- Python
-- Pandas
-- Streamlit
-- Power BI
-
-Analysed 185,000+ sales records.
-
----
-
-## 🎬 Netflix Analytics Dashboard
-
-Interactive dashboard for Netflix Movies & TV Shows.
-
-Features:
-
-- Filtering
-- Visualizations
-- Insights
-
----
-
-## 📚 AI Upskill Recommender
-
-AI-powered recommendation platform built using
-
-- React
-- FastAPI
-- Gemini API
-
-Provides personalized learning recommendations.
-
----
-
-# 🏆 Certifications
-
-- Microsoft Azure Essentials Professional Certificate
-- IBM SQL & Relational Databases
-- IBM Agentic AI
-- Python for Data Science (NPTEL IIT Madras)
-- Cryptography & Network Security (NPTEL IIT Kharagpur)
-- Career Essentials in GitHub Professional Certificate
-
----
-
-# 💼 Internship Experience
-
-### Data Science & Business Analytics Intern
-
-**Intrainz**
-
-- Recommendation System
-- Power BI
-- Streamlit
-
----
-
-### Business & Data Analytics Intern
-
-**YBI Foundation**
-
-- Sales Analytics
-- Python
-- Dashboard Development
-
----
-
-### Artificial Intelligence Intern
-
-**Corizo**
-
-- Machine Learning
-- Recommendation Systems
-- Disease Prediction
-
----
-
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -209,8 +104,6 @@ Provides personalized learning recommendations.
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=altamashchougle&theme=github-dark"/>
@@ -219,7 +112,7 @@ Provides personalized learning recommendations.
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 💼 LinkedIn
 
@@ -227,14 +120,4 @@ https://linkedin.com/in/altamashchougle
 
 📧 Email
 
-your-email@example.com
-
-🌐 GitHub
-
-https://github.com/altamashchougle
-
----
-
-## 💡 Motto
-
-> "Turning data into insights and ideas into intelligent solutions."
+altamashchougle55@gmail.com
